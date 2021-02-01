@@ -95,3 +95,12 @@
 >   + `H` will hide the selected object.
 >   + `SHIFT + H` will hide everything except the selected object.
 >   + `Alt + H` will un-hide any hidden objects.
+
+>### 15 Mid Section Challenge: Make A Little Scene
+>+ Viewport shading options.
+>+ First big challenge.
+>+ Take your time.
+>+ Apply your transforms where necessary.
+>+ Name your objects as you make them.
+>+ You are challenging yourself, no one else!
+>+ One model is great, several little models is excellent it will really help you ingrain the knowledge taught so far!
