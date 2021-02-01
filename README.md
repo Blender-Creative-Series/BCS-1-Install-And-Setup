@@ -75,7 +75,16 @@
 >+ Duplicate an object and it properties making a new object. `SHIFT + D`
 >+ Duplicate an object that remains linked to the original. `ALT + D`
 
->### 11 Repeat Last Step
+>### 11 Repeating The Last Operation
 >+ Quick way of repeating the last step you did exactly.
 >+ `SHIFT + R`
 >+ Only does the last step so to make the most out of it you'll need to use compound operations.
+
+>### 12 Organising Your Models
+>+ Watching your naming!
+>+ Joining Objects with `CTRL + J`.
+>+ Creating Collections and adding objects to them.
+>+ Parenting and the idea of inheritance.
+
+### 13 Randomise Transforms
+>+ Really useful for adding an organic feel to your model / scene.
