@@ -75,3 +75,7 @@
 >+ Duplicate an object and it properties making a new object. `SHIFT + D`
 >+ Duplicate an object that remains linked to the original. `ALT + D`
 
+>### 11 Repeat Last Step
+>+ Quick way of repeating the last step you did exactly.
+>+ `SHIFT + R`
+>+ Only does the last step so to make the most out of it you'll need to use compound operations.
