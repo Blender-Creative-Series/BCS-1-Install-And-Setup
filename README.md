@@ -7,23 +7,23 @@
 
 <br>
 
->### 1. Installing From Blender.org
+>### 1 Installing From Blender.org
 >+ How to install the current version of **Blender (2.91)**.
 >+ How to install older version of Blender.
 >+ How to install **Blender 2.83 LTS**.
 >+ How to install the latest Alpha or Beta version of Blender.
 
->### 2. Installing Blender Using Steam
+>### 2 Installing Blender Using Steam
 >+ How to install the current version of **Blender (2.91)**.
 >+ How to install older version of Blender.
 >+ How to install **Blender 2.83 LTS**.
 >+ You currently cannot install the latest Alpha and Beta version of Blender through steam.
 
->### 3. Basic Blender Setup And Customisation
+>### 3 Basic Blender Setup And Customisation
 >+ Configuring Blender ready for the course ahead.
 >+ How to change setting in Blender's user preferences.
 
->### 4. Navigating Your Virtual World
+>### 4 Navigating Your Virtual World
 >+ How to change your view using your computers Numberpad.
 >   + **Top** View: `Numpad 7`.
 >   + **Right** View: `Numpad 3`.
@@ -36,14 +36,14 @@
 >   + **Orbit**: `MMB` 
 >   + **Zoom**: `Scroll Wheel`
 
->### 5. Adding New Objects
+>### 5 Adding New Objects
 >+ What an object is and how to add one to a scene.
 >+ An overview of the various different object types.
 >+ An introduction to the **3D Cursor**.
 >+ The **Operator Panel**. `F9`.
 >+ Deleting **Objects** using: `X` or `DEL`.
 
->### 6. Transforming Objects
+>### 6 Transforming Objects
 >+ Understand how the toolbar works. `T`.
 >+ Transform objects using the toolbar `T`, properties panel `N` and keyboard shortcuts:
 >   + Move objects. `G`.
@@ -60,3 +60,8 @@
 ><br>
 ><br>
 >This is a common thing that will catch you out!  If object transforms are left un-applied you will have issues with modifiers, physics, particles, texture mapping, UV unwrapping, object shading, rigging issues with armatures, parents and children wierdness...and more!
+
+>### 8 Pivot Points
+>+ An object's pivot point can be changed using: `.` `(Full Stop / Period)`.
+>+ By default the pivot point is set to the median (average) position of all of the selected objects
+>+ Changing the pivot point can be really useful.
