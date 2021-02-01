@@ -86,5 +86,5 @@
 >+ Creating Collections and adding objects to them.
 >+ Parenting and the idea of inheritance.
 
-### 13 Randomise Transforms
+### 13 Randomize Transforms
 >+ Really useful for adding an organic feel to your model / scene.
