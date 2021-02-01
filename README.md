@@ -70,3 +70,8 @@
 >+ Toggle snapping using: `SHIFT + TAB`
 >+ Change snapping location: `CTRL + SHIFT + TAB`
 >+ Useful for beginners is snapping to a grid and enabling `Absolute Grid Snap`
+
+>### 10 Duplication
+>+ Duplicate an object and it properties making a new object. `SHIFT + D`
+>+ Duplicate an object that remains linked to the original. `ALT + D`
+
