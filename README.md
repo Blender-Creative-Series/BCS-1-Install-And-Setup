@@ -58,7 +58,6 @@
 >### 7 Applying Transforms
 >+ Apply your transforms. `CTRL + A`.
 ><br>
-><br>
 >This is a common thing that will catch you out!  If object transforms are left un-applied you will have issues with modifiers, physics, particles, texture mapping, UV unwrapping, object shading, rigging issues with armatures, parents and children wierdness...and more!
 
 >### 8 Pivot Points
@@ -83,8 +82,16 @@
 >### 12 Organising Your Models
 >+ Watching your naming!
 >+ Joining Objects with `CTRL + J`.
->+ Creating Collections and adding objects to them.
->+ Parenting and the idea of inheritance.
+>+ Creating Collections using `M` and adding objects to them.
+>+ Parenting using `CTRL + P` and the idea of inheritance.
+>+ Clear a parent using `ALT + P`.
 
 ### 13 Randomize Transforms
->+ Really useful for adding an organic feel to your model / scene.
+>+ Really useful for adding an organic feel to your model / scene. `Object > Transform > Randomize Transform`.
+
+### 14 Common Mishaps
+>+ Changing the viewport shading. `Z` or `SHIFT+Z`.
+>+ Hiding Objects:
+>   + `H` will hide the selected object.
+>   + `SHIFT + H` will hide everything except the selected object.
+>   + `Alt + H` will un-hide any hidden objects.
