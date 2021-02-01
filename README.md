@@ -65,3 +65,8 @@
 >+ An object's pivot point can be changed using: `.` `(Full Stop / Period)`.
 >+ By default the pivot point is set to the median (average) position of all of the selected objects
 >+ Changing the pivot point can be really useful.
+
+>### 9 Snapping
+>+ Toggle snapping using: `SHIFT + TAB`
+>+ Change snapping location: `CTRL + SHIFT + TAB`
+>+ Useful for beginners is snapping to a grid and enabling `Absolute Grid Snap`
