@@ -54,3 +54,9 @@
 >+ You have exclude an axis when transforming with: `SHIFT + X, SHIFT + Y, SHIFT + Z`.
 >+ Pressing the constraint key again will switch from *global* into *local* space.
 >+ Pressing the constraint key a third time with toggle the constraint *off*.
+
+>### 7 Applying Transforms
+>+ Apply your transforms. `CTRL + A`.
+><br>
+><br>
+>This is a common thing that will catch you out!  If object transforms are left un-applied you will have issues with modifiers, physics, particles, texture mapping, UV unwrapping, object shading, rigging issues with armatures, parents and children wierdness...and more!
