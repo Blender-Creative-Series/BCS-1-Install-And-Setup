@@ -128,3 +128,9 @@
 >### 19 Render Output Settings
 >+ Change the resolution of your final image.
 >+ Change the default image settings.
+
+>### 20 Rendering With Eevee
+>+ Great Eevee settings for your first renders.
+>+ With Eevee you have to add features.
+>+ Your can get great results using Eevee in less time than cycles.
+>+ Really high quality and realistic renders are possible, however you might have to start faking parts of your scene to match a great Cycles render.
