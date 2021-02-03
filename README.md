@@ -119,3 +119,8 @@
 >+ Add some light to a scene by adding lamps.
 >+ Look at the different light types.
 >+ Lighting is different in Eevee and Cycles.
+
+>### 18 Setting Up the Camera
+>+ The camera's view is what your rendered image will look like.
+>+ You'll learn some tips on how to get the camera into the right place really quickly.
+>+ Render and save your render.
