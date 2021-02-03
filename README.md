@@ -142,3 +142,9 @@
 >+ Really high quality and realistic renders are possible.
 >+ CPU Tile Size 8px - 64px, test for your system.
 >+ GPU tile size 128px - 512px, test for your system.
+
+>### 22 Rendering With Workbench
+>+ Less used that Cycles and Eevee.
+>+ Often the fastest to render.
+>+ Can look just like the viewport!
+>+ Great for previewing work, especially animations.
