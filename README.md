@@ -1,4 +1,4 @@
-# [The Blender 2.9 Creative Series](www.completeblendercreator.com): 3d Modelling for Beginners
+****# [The Blender 2.9 Creative Series](www.completeblendercreator.com): 3d Modelling for Beginners
 ## Section 1: Getting Started In Blender
 
 #### You will have Blender installed, have a fundamental understanding of Blender's working environment, and will have made and rendered your first scene ready to share!
@@ -79,7 +79,7 @@
 >+ `SHIFT + R`
 >+ Only does the last step so to make the most out of it you'll need to use compound operations.
 
->### 12 Organising Your Models
+>### 12 Organising Your Objects
 >+ Watching your naming!
 >+ Joining Objects with `CTRL + J`.
 >+ Creating Collections using `M` and adding objects to them.
@@ -104,3 +104,13 @@
 >+ Name your objects as you make them.
 >+ You are challenging yourself, no one else!
 >+ One model is great, several little models is excellent it will really help you ingrain the knowledge taught so far!
+
+>### 16 Adding Colour To Your Models 
+>+ A Material is a description of how light interacts with an object.
+>+ You will add a basic material to an object.
+>+ You will be about to change it's colour and how reflective it is.
+>+ Make links to existing an existing material with `CTRL + L`.
+>+ Enter Edit Mode Using `TAB`.
+>+ Select everything using `A`.
+>+ Separate (UnJoin) using `P`.
+>+ `TAB` to enter object mode again.
