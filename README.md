@@ -124,3 +124,7 @@
 >+ The camera's view is what your rendered image will look like.
 >+ You'll learn some tips on how to get the camera into the right place really quickly.
 >+ Render and save your render.
+
+>### 19 Render Output Settings
+>+ Change the resolution of your final image.
+>+ Change the default image settings.
