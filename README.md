@@ -114,3 +114,8 @@
 >+ Select everything using `A`.
 >+ Separate (UnJoin) using `P`.
 >+ `TAB` to enter object mode again.
+
+>### 17 Lighting Your Scene
+>+ Add some light to a scene by adding lamps.
+>+ Look at the different light types.
+>+ Lighting is different in Eevee and Cycles.
