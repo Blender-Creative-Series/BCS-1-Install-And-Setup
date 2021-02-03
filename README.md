@@ -134,3 +134,11 @@
 >+ With Eevee you have to add features.
 >+ Your can get great results using Eevee in less time than cycles.
 >+ Really high quality and realistic renders are possible, however you might have to start faking parts of your scene to match a great Cycles render.
+
+>### 21 Rendering With Cycles
+>+ Great Cycles settings for your first renders.
+>+ Cycles is realistic out of the box.
+>+ Cycles can take longer to render than Eevee.
+>+ Really high quality and realistic renders are possible.
+>+ CPU Tile Size 8px - 64px, test for your system.
+>+ GPU tile size 128px - 512px, test for your system.
